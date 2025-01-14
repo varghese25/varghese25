@@ -1,4 +1,4 @@
-## Hi there 👋\
+## Hi there 👋
 My name is Varghese Baby Experienced software implementation engineer & Self-Taught Developer, Always enthusiastic to learn new technologies and put my dirty hands on it.!
 
 - 🔭 I’m currently working on Time Table Management System for School/College/University
