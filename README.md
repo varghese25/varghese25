@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varghese25" alt="varghese25" /></a> </p>
 
-<p align="right">
-  <img src="image/laptop.png" width="200" alt="Your Alt Text">
+- 🔭 I’m currently working on **Time Table Management System for School/College/University** <p align="right">
+<img src="image/laptop.png" width="200" alt="Your Alt Text">
 </p>
-
-- 🔭 I’m currently working on **Time Table Management System for School/College/University**
 
 - 🌱 I’m currently learning **Hubspot CMS Development Certification And HubL**
 
