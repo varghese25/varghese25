@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=varghese25" alt="varghese25" /></a> </p>
 
 <p align="right">
-  <img src="https://raw.githubusercontent.com/varghese25/varghese25/main/images/laptop.png" width="200" alt="Your Alt Text">
+  <img src="image/laptop.png" width="200" alt="Your Alt Text">
 </p>
 
 - 🔭 I’m currently working on **Time Table Management System for School/College/University**
