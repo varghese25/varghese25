@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Varghese Baby</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/varghesebaby25/">Varghese Baby</a></h1>
+
+<!--- Adding Header Elements -->
 <h3 align="center">Experienced Software Implementation Engineer and Passionate Self-Taught Developer Always eager to explore new technologies and get hands-on with them.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varghese25&label=Profile%20views&color=0e75b6&style=flat" alt="varghese25" /> </p>
@@ -7,7 +9,6 @@
 <p align="center">
   <img src="image/laptop.png" min-width="300px" max-width="300px" width="350px" align="right">
 </p>
-
 - 🔭 I’m currently working on **Time Table Management System for School/College/University**
 
 - 🌱 I’m currently learning **Hubspot CMS Development Certification And HubL**
