@@ -37,3 +37,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varghese25&show_icons=true&locale=en&layout=compact" alt="varghese25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varghese25&show_icons=true&locale=en" alt="varghese25" /></p>
+<p align="center">
+Do you want to contact me for collaboration opportunities? ⟶ <a href="https://vargheseb.netlify.app/">Contact Details</a><br>
+<b> Show some ❤️ by starring some of the repositories!.</p> </div>
+<!--- Footer End -->
+<!--- Body End -->
