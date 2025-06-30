@@ -26,11 +26,13 @@
 <summary><b>📈 Get my Code stats</b></summary><br>
 
 <!--START_SECTION:waka-->
-<!-- This section will automatically update with your WakaTime stats -->
 <!--END_SECTION:waka-->
 
-[![Varghese Baby profile views](https://u8views.com/api/v1/github/profiles/varghese25/views/day-week-month-total-count.svg)](https://u8views.com/github/varghese25)
+## 📈 Weekly Development Breakdown
 
+<!--START_SECTION:waka-->
+<!--WakaTime stats will automatically appear here-->
+<!--END_SECTION:waka-->
 </details>
 
 <h3 align="left">Connect with me:</h3>
