@@ -28,11 +28,6 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--WakaTime stats will automatically appear here-->
-<!--END_SECTION:waka-->
 </details>
 
 <h3 align="left">Connect with me:</h3>
