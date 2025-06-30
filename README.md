@@ -20,6 +20,13 @@
 
 - 📫 How to reach me **vbpoulose@gmail.com**
 
+---
+
+<p align="center">
+  [![Varghese Baby profile views](https://u8views.com/api/v1/github/profiles/varghese25/views/day-week-month-total-count.svg)](https://u8views.com/github/varghese25)
+</p>
+----------------------------------------------------------------------------------------------
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/varghese-baby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="varghese-baby" height="30" width="40" /></a>
