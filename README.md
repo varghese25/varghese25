@@ -11,7 +11,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Data Engineering**
+- 🌱 I’m currently learning **Python & Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://vargheseb.netlify.app](https://vargheseb.netlify.app)
 
