@@ -10,9 +10,8 @@
   <img src="image/laptop.png" min-width="300px" max-width="300px" width="350px" align="right">
 </p>
 
-- 🔭 I’m currently working on **Time Table Management System for School/College/University**
 
-- 🌱 I’m currently learning **Hubspot CMS Development Certification And HubL**
+- 🌱 I’m currently learning **Python & Data Engineering**
 
 - 👨‍💻 All of my projects are available at [https://vargheseb.netlify.app](https://vargheseb.netlify.app)
 
