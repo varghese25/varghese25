@@ -9,7 +9,7 @@
 <p align="center">
   <img src="image/laptop.png" min-width="300px" max-width="300px" width="350px" align="right">
 </p>
-
+<link rel="stylesheet" href="alter.css">
 
 - 🌱 I’m currently learning **Python & Data Engineering**
 
@@ -49,7 +49,7 @@
 <p align="center">
 Do you want to contact me for collaboration opportunities? ⟶ <a href="https://vargheseb.netlify.app/">Contact Details</a><br>
 <b> Show some ❤️ by starring some of the repositories!.</p> 
-<b> ⚠️ **Alert:** Beware of scammers!</b>
+ <p class="flash">⚠️ ALERT: BEWARE OF SCAMMERS! ⚠️</p>
 </div>
 
 <!--- Footer End -->
