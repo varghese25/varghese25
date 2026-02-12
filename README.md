@@ -10,16 +10,7 @@
   <img src="image/laptop.png" min-width="300px" max-width="300px" width="350px" align="right">
 </p>
 
-<!DOCTYPE html>
-<html>
-<head>
-  <link rel="stylesheet" href="alter.css">
-  <title>Alert</title>
-</head>
-<body>
-  <p class="flash">⚠️ ALERT: BEWARE OF SCAMMERS! ⚠️</p>
-</body>
-</html>
+  <p><bold>⚠️ ALERT: BEWARE OF SCAMMERS! ⚠️</bold></p>
 
 - 🌱 I’m currently learning **Python & Data Engineering**
 
