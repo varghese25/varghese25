@@ -10,7 +10,7 @@
   <img src="image/laptop.png" min-width="300px" max-width="300px" width="350px" align="right">
 </p>
 
-  <p><bold>⚠️ ALERT: BEWARE OF SCAMMERS! ⚠️</bold></p>
+<p align="center"><b>⚠️ ALERT: BEWARE OF SCAMMERS! ⚠️</b></p>
 
 - 🌱 I’m currently learning **Python & Data Engineering**
 
@@ -49,7 +49,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varghese25&show_icons=true&locale=en" alt="varghese25" /></p>
 <p align="center">
 Do you want to contact me for collaboration opportunities? ⟶ <a href="https://vargheseb.netlify.app/">Contact Details</a><br>
-<b> Show some ❤️ by starring some of the repositories!.</p> 
+<b> Show some ❤️ by starring some of the repositories!.</p>
+
+<p align="center"><b>⚠️ ALERT: BEWARE OF SCAMMERS! ⚠️</b></p>
 </div>
 
 <!--- Footer End -->
