@@ -49,7 +49,8 @@
 <p align="center">
 Do you want to contact me for collaboration opportunities? ⟶ <a href="https://vargheseb.netlify.app/">Contact Details</a><br>
 <b> Show some ❤️ by starring some of the repositories!.</p> 
-<b> ⚠️ **Alert:** Beware of scammers!</b></div>
+<b> ⚠️ **Alert:** Beware of scammers!</b>
+</div>
 
 <!--- Footer End -->
 <!--- Body End -->
