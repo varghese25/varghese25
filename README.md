@@ -12,7 +12,7 @@
 
 <p align="center"><b>⚠️ ALERT: BEWARE OF SCAMMERS! ⚠️</b></p>
 
-- 🌱 I’m currently learning **Python & Data Engineering**
+- 🌱 I’m currently learning **ServiceNow (CSA)**
 
 - 👨‍💻 All of my projects are available at [https://vargheseb.netlify.app](https://vargheseb.netlify.app)
 
