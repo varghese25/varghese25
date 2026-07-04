@@ -12,7 +12,7 @@
 
 <p align="center"><b>⚠️ ALERT: BEWARE OF SCAMMERS! ⚠️</b></p>
 
-- 🌱 I’m currently learning **ServiceNow (CSA)** *** MintOs Zena 22.3**
+- 🌱 I’m currently learning **ServiceNow (CSA)**   **MintOs Zena 22.3**
 
 - 👨‍💻 All of my projects are available at [https://vargheseb.netlify.app](https://vargheseb.netlify.app)
 
